@@ -1,7 +1,7 @@
 body {
   color: #40514E;
   margin: 0;
-  text-align: center;
+  text-align: left;
   font-family: "Merriweather", serif;
 }
 
@@ -114,7 +114,6 @@ button {
   margin-left: 30px;
 }
 
-
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
@@ -132,7 +131,6 @@ button {
   width: 40%;
   margin: 40px auto 60px;
 }
-
 
 .btn {
   background: #11cdd4;
